@@ -1,0 +1,14 @@
+<div class="stats">
+<span class="stats-vote"><i class="number">3315</i> บระฆ</span>
+<span class="stats-comments">
+
+
+<span class="dash"> กค </span>
+<a href="/article/115240910" data-share="/article/115240910" id="c-115240910" class="qiushi_comments" target="_blank">
+<i class="number">60</i> ฦภยÛ
+</a>
+
+
+
+</span>
+</div>

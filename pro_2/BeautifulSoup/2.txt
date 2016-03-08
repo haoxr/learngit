@@ -1,0 +1,1032 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python35\python.exe D:/working/pro_2/py3_one_page.py
+ÇëÊäÈëÉ¨ÃèµÄurl:https://www.taobao.com
+ÇëÊäÈëÕ¾µãÃû³Æ£ºtaobao
+Ready to Open the web!
+Opening the web : https://www.taobao.com
+Success to Open the web!
+C:\Users\Administrator\AppData\Local\Programs\Python\Python35\lib\site-packages\beautifulsoup4-4.4.1-py3.5.egg\bs4\__init__.py:166: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+To get rid of this warning, change this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+Add New Page: //list.taobao.com/browse/ad_search.htm
+ParseResult(scheme='', netloc='list.taobao.com', path='/browse/ad_search.htm', params='', query='', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Çï¼¾´òµ×ÉÀ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Çï¼¾´òµ×ÉÀ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Ã«ÄØ´óÒÂ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Ã«ÄØ´óÒÂ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÓðÈÞÒÂ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÓðÈÞÒÂ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Ì××°È¹&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Ì××°È¹&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Çï¿îÄÐÍâÌ×&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Çï¿îÄÐÍâÌ×&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=½¡ÉíÆ÷²Ä&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=½¡ÉíÆ÷²Ä&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÕæÆ¤Å®Ñ¥&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÕæÆ¤Å®Ñ¥&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Ñ©µØÑ¥&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=Ñ©µØÑ¥&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÐÐ³µ¼ÇÂ¼ÒÇ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÐÐ³µ¼ÇÂ¼ÒÇ&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÄÐÐ¬&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÄÐÐ¬&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=¶¬Ã±&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=¶¬Ã±&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=¶ùÍ¯Íæ¾ß&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=¶ùÍ¯Íæ¾ß&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: https://s.taobao.com/search?spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÐÂ¿îÅ®°ü&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66
+ParseResult(scheme='https', netloc='s.taobao.com', path='/search', params='', query='spm=a21bo.7724922.8452-fline.1.gk1fW2&q=ÐÂ¿îÅ®°ü&refpid=420460_1006&source=tbsy&style=grid&tab=all&pvid=d0f2ec2810bcec0d5a16d5283ce59f66', fragment='') 
+
+Add New Page: //top.taobao.com/?topid=home
+ParseResult(scheme='', netloc='top.taobao.com', path='/', params='', query='topid=home', fragment='') 
+
+Add New Page: //www.taobao.com
+ParseResult(scheme='', netloc='www.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: http://www.taobao.com/m?spm=1.7274553.1997561957.1.sTlqne
+ParseResult(scheme='http', netloc='www.taobao.com', path='/m', params='', query='spm=1.7274553.1997561957.1.sTlqne', fragment='') 
+
+Add New Page: javascript:;
+ParseResult(scheme='javascript', netloc='', path=';', params='', query='', fragment='') 
+
+Add New Page: //www.tmall.com
+ParseResult(scheme='', netloc='www.tmall.com', path='', params='', query='', fragment='') 
+
+Add New Page: //ju.taobao.com
+ParseResult(scheme='', netloc='ju.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //chaoshi.tmall.com/?_ig=taobao
+ParseResult(scheme='', netloc='chaoshi.tmall.com', path='/', params='', query='_ig=taobao', fragment='') 
+
+Add New Page: //headline.taobao.com/feed/feedList.htm
+ParseResult(scheme='', netloc='headline.taobao.com', path='/feed/feedList.htm', params='', query='', fragment='') 
+
+Add New Page: //trip.taobao.com
+ParseResult(scheme='', netloc='trip.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //3c.tmall.com
+ParseResult(scheme='', netloc='3c.tmall.com', path='', params='', query='', fragment='') 
+
+Add New Page: //qiang.taobao.com
+ParseResult(scheme='', netloc='qiang.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //sf.taobao.com
+ParseResult(scheme='', netloc='sf.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //suning.tmall.com
+ParseResult(scheme='', netloc='suning.tmall.com', path='', params='', query='', fragment='') 
+
+Add New Page: http://www.hitao.com/
+ParseResult(scheme='http', netloc='www.hitao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //yun.taobao.com
+ParseResult(scheme='', netloc='yun.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //china.taobao.com
+ParseResult(scheme='', netloc='china.taobao.com', path='', params='', query='', fragment='') 
+
+Maybe not the attr : href
+Maybe not the attr : href
+Add New Page: //nz.taobao.com/
+ParseResult(scheme='', netloc='nz.taobao.com', path='/', params='', query='', fragment='') 
+
+Maybe not the attr : href
+Maybe not the attr : href
+Maybe not the attr : href
+Add New Page: //style.taobao.com/
+ParseResult(scheme='', netloc='style.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.tmall.com/go/market/promotion-act/fuwutai.php
+ParseResult(scheme='', netloc='www.tmall.com', path='/go/market/promotion-act/fuwutai.php', params='', query='', fragment='') 
+
+Add New Page: //guojia.tmall.com
+ParseResult(scheme='', netloc='guojia.tmall.com', path='', params='', query='', fragment='') 
+
+Add New Page: //nanzhuang.tmall.com/
+ParseResult(scheme='', netloc='nanzhuang.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //3c.tmall.com/?spm=3.7396704.20000078.1.vVxWwq&abbucket=&dcate=2&acm=tt-1141420-37031.1003.8.320818&aldid=320818&nav=jinritehui&abtest=&scm=1003.8.tt-1141420-37031.OTHER_1433244957480_320818&pos=1#J_TehFloor
+ParseResult(scheme='', netloc='3c.tmall.com', path='/', params='', query='spm=3.7396704.20000078.1.vVxWwq&abbucket=&dcate=2&acm=tt-1141420-37031.1003.8.320818&aldid=320818&nav=jinritehui&abtest=&scm=1003.8.tt-1141420-37031.OTHER_1433244957480_320818&pos=1', fragment='J_TehFloor') 
+
+Add New Page: //nvzhuang.tmall.com/
+ParseResult(scheme='', netloc='nvzhuang.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //myhome.tmall.com/
+ParseResult(scheme='', netloc='myhome.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.tmall.com/go/market/promotion-act/big.php
+ParseResult(scheme='', netloc='www.tmall.com', path='/go/market/promotion-act/big.php', params='', query='', fragment='') 
+
+Add New Page: //car.tmall.com/
+ParseResult(scheme='', netloc='car.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //bag.tmall.com/
+ParseResult(scheme='', netloc='bag.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //chaoshi.tmall.com/
+ParseResult(scheme='', netloc='chaoshi.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //baby.tmall.com/
+ParseResult(scheme='', netloc='baby.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //neiyi.tmall.com/
+ParseResult(scheme='', netloc='neiyi.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //sports.tmall.com/
+ParseResult(scheme='', netloc='sports.tmall.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.tmall.com/go/market/huiyuan/gwqgl.php
+ParseResult(scheme='', netloc='www.tmall.com', path='/go/market/huiyuan/gwqgl.php', params='', query='', fragment='') 
+
+Add New Page: //watch.tmall.com
+ParseResult(scheme='', netloc='watch.tmall.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.tmall.com/wh/tmall/chaoshi/act/dbz-hd
+ParseResult(scheme='', netloc='www.tmall.com', path='/wh/tmall/chaoshi/act/dbz-hd', params='', query='', fragment='') 
+
+Add New Page: //shop57301063.taobao.com/?spm=1.7274553.1997517401.3.hCLqBk&abbucket=¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_11119_224553&pos=1
+ParseResult(scheme='', netloc='shop57301063.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.3.hCLqBk&abbucket=¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_11119_224553&pos=1', fragment='') 
+
+Add New Page: //shop58692369.taobao.com/?spm=1.7274553.1997517401.4.hCLqBk&abbucket=¡­=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_3227274_224553&pos=2
+ParseResult(scheme='', netloc='shop58692369.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.4.hCLqBk&abbucket=¡­=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_3227274_224553&pos=2', fragment='') 
+
+Add New Page: //shop103056853.taobao.com/?spm=1.7274553.1997517401.5.hCLqBk&abbucket¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_60679_224553&pos=3
+ParseResult(scheme='', netloc='shop103056853.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.5.hCLqBk&abbucket¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_60679_224553&pos=3', fragment='') 
+
+Add New Page: //shop71029355.taobao.com/?spm=1.7274553.1997517401.6.hCLqBk&abbucket=¡­d=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_135055_224553&pos=4
+ParseResult(scheme='', netloc='shop71029355.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.6.hCLqBk&abbucket=¡­d=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_135055_224553&pos=4', fragment='') 
+
+Add New Page: //shop103172602.taobao.com/?spm=1.7274553.1997517401.7.hCLqBk&abbucket¡­Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_127231879_224553&pos=5
+ParseResult(scheme='', netloc='shop103172602.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.7.hCLqBk&abbucket¡­Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_127231879_224553&pos=5', fragment='') 
+
+Add New Page: //shop68263347.taobao.com/?spm=1.7274553.1997517401.8.hCLqBk&abbucket=¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_10745_224553&pos=6
+ParseResult(scheme='', netloc='shop68263347.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.8.hCLqBk&abbucket=¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_10745_224553&pos=6', fragment='') 
+
+Add New Page: //brand.tmall.com/brandInfo.htm?spm=1.7274553.1997517401.9.hCLqBk&abbu¡­=_AB-LR65-PR65&brandId=3363699&scm=1003.1.03014.BRAND_3363699_224553&pos=7
+ParseResult(scheme='', netloc='brand.tmall.com', path='/brandInfo.htm', params='', query='spm=1.7274553.1997517401.9.hCLqBk&abbu¡­=_AB-LR65-PR65&brandId=3363699&scm=1003.1.03014.BRAND_3363699_224553&pos=7', fragment='') 
+
+Add New Page: //shop104411835.taobao.com/?spm=1.7274553.1997517401.10.hCLqBk&abbucke¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_33551_224553&pos=8
+ParseResult(scheme='', netloc='shop104411835.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.10.hCLqBk&abbucke¡­id=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_33551_224553&pos=8', fragment='') 
+
+Add New Page: //brand.tmall.com/brandInfo.htm?spm=1.7274553.1997517401.11.hCLqBk&abb¡­=_AB-LR65-PR65&brandId=4539267&scm=1003.1.03014.BRAND_4539267_224553&pos=9
+ParseResult(scheme='', netloc='brand.tmall.com', path='/brandInfo.htm', params='', query='spm=1.7274553.1997517401.11.hCLqBk&abb¡­=_AB-LR65-PR65&brandId=4539267&scm=1003.1.03014.BRAND_4539267_224553&pos=9', fragment='') 
+
+Add New Page: //shop71580286.taobao.com/?spm=1.7274553.1997517401.12.hCLqBk&abbucket¡­Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_57417980_224553&pos=10
+ParseResult(scheme='', netloc='shop71580286.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.12.hCLqBk&abbucket¡­Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_57417980_224553&pos=10', fragment='') 
+
+Add New Page: //shop60510996.taobao.com/?spm=1.7274553.1997517401.13.hCLqBk&abbucket¡­d=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_29975_224553&pos=11
+ParseResult(scheme='', netloc='shop60510996.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.13.hCLqBk&abbucket¡­d=6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_29975_224553&pos=11', fragment='') 
+
+Add New Page: //shop60986721.taobao.com/?spm=1.7274553.1997517401.14.hCLqBk&abbucket¡­6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_3229686_224553&pos=12
+ParseResult(scheme='', netloc='shop60986721.taobao.com', path='/', params='', query='spm=1.7274553.1997517401.14.hCLqBk&abbucket¡­6Fq67Peh&abtest=_AB-LR65-PR65&scm=1003.1.03014.BRAND_3229686_224553&pos=12', fragment='') 
+
+Add New Page: //list.tmall.com/search_product.htm?spm=1.7274553.1997517401.15.hCLqBk&brand=128616254&scm=1003.5.03058.99&acm=03058.1003.0.0.128616254_6
+ParseResult(scheme='', netloc='list.tmall.com', path='/search_product.htm', params='', query='spm=1.7274553.1997517401.15.hCLqBk&brand=128616254&scm=1003.5.03058.99&acm=03058.1003.0.0.128616254_6', fragment='') 
+
+Add New Page: //list.tmall.com/search_product.htm?spm=1.7274553.1997517401.16.hCLqBk&brand=20580&scm=1003.5.03058.99&acm=03058.1003.0.0.20580_6
+ParseResult(scheme='', netloc='list.tmall.com', path='/search_product.htm', params='', query='spm=1.7274553.1997517401.16.hCLqBk&brand=20580&scm=1003.5.03058.99&acm=03058.1003.0.0.20580_6', fragment='') 
+
+Add New Page: //list.tmall.com/search_product.htm?spm=1.7274553.1997517401.17.hCLqBk&brand=94140&scm=1003.5.03058.99&acm=03058.1003.0.0.94140_6
+ParseResult(scheme='', netloc='list.tmall.com', path='/search_product.htm', params='', query='spm=1.7274553.1997517401.17.hCLqBk&brand=94140&scm=1003.5.03058.99&acm=03058.1003.0.0.94140_6', fragment='') 
+
+Maybe not the attr : href
+Maybe not the attr : href
+Add New Page: //bbs.taobao.com/catalog/438501.htm
+ParseResult(scheme='', netloc='bbs.taobao.com', path='/catalog/438501.htm', params='', query='', fragment='') 
+
+Add New Page: //rule.taobao.com/index.htm?spm=1.7274553.1997557785.2.2VjYgt
+ParseResult(scheme='', netloc='rule.taobao.com', path='/index.htm', params='', query='spm=1.7274553.1997557785.2.2VjYgt', fragment='') 
+
+Add New Page: //bbs.taobao.com/
+ParseResult(scheme='', netloc='bbs.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //110.alibaba.com/policeHall/hallIndex.htm?from=taobaoshouye
+ParseResult(scheme='', netloc='110.alibaba.com', path='/policeHall/hallIndex.htm', params='', query='from=taobaoshouye', fragment='') 
+
+Add New Page: //gongyi.taobao.com
+ParseResult(scheme='', netloc='gongyi.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //press.taobao.com/detail.html?spm=0.0.0.0.EuW4vT&postId=5467221
+ParseResult(scheme='', netloc='press.taobao.com', path='/detail.html', params='', query='spm=0.0.0.0.EuW4vT&postId=5467221', fragment='') 
+
+Add New Page: //press.taobao.com/detail.html?spm=0.0.0.0.X56Oj9&postId=5467327
+ParseResult(scheme='', netloc='press.taobao.com', path='/detail.html', params='', query='spm=0.0.0.0.X56Oj9&postId=5467327', fragment='') 
+
+Add New Page: //press.taobao.com/detail.html?spm=0.0.0.0.VmqXpZ&postId=5467155
+ParseResult(scheme='', netloc='press.taobao.com', path='/detail.html', params='', query='spm=0.0.0.0.VmqXpZ&postId=5467155', fragment='') 
+
+Add New Page: https://rule.taobao.com/detail-3798.htm?spm=a2177.7231193.0.0.TZHhPe&tag=self&cId=118
+ParseResult(scheme='https', netloc='rule.taobao.com', path='/detail-3798.htm', params='', query='spm=a2177.7231193.0.0.TZHhPe&tag=self&cId=118', fragment='') 
+
+Add New Page: https://rule.taobao.com/rulecycleDetail.htm?spm=a2177.7712272.0.0.AcxS1i&taskId=124
+ParseResult(scheme='https', netloc='rule.taobao.com', path='/rulecycleDetail.htm', params='', query='spm=a2177.7712272.0.0.AcxS1i&taskId=124', fragment='') 
+
+Add New Page: https://rule.taobao.com/detail-3171.htm?spm=a2177.7712275.0.0.zA04y9&tag=self&cId=161
+ParseResult(scheme='https', netloc='rule.taobao.com', path='/detail-3171.htm', params='', query='spm=a2177.7712275.0.0.zA04y9&tag=self&cId=161', fragment='') 
+
+Add New Page: https://rule.taobao.com/detail-2951.htm?spm=a2177.7231193.0.0.k9Q69W&tag=self&cId=161
+ParseResult(scheme='https', netloc='rule.taobao.com', path='/detail-2951.htm', params='', query='spm=a2177.7231193.0.0.k9Q69W&tag=self&cId=161', fragment='') 
+
+Add New Page: //daxue.taobao.com/markets/daxue/mzsd-sdqs
+ParseResult(scheme='', netloc='daxue.taobao.com', path='/markets/daxue/mzsd-sdqs', params='', query='', fragment='') 
+
+Add New Page: https://bbs.taobao.com/catalog/thread/154502-316172755.htm?spm=0.0.0.0.CGg1cS
+ParseResult(scheme='https', netloc='bbs.taobao.com', path='/catalog/thread/154502-316172755.htm', params='', query='spm=0.0.0.0.CGg1cS', fragment='') 
+
+Add New Page: //chuangye.bbs.taobao.com/detail.html?spm=0.0.0.0.sGrnAi&postId=191502
+ParseResult(scheme='', netloc='chuangye.bbs.taobao.com', path='/detail.html', params='', query='spm=0.0.0.0.sGrnAi&postId=191502', fragment='') 
+
+Add New Page: //guize.bbs.taobao.com/detail.html?spm=a210m.7699130.bbs.8.zUhYFX&appId=4501&postId=5230764
+ParseResult(scheme='', netloc='guize.bbs.taobao.com', path='/detail.html', params='', query='spm=a210m.7699130.bbs.8.zUhYFX&appId=4501&postId=5230764', fragment='') 
+
+Add New Page: https://bbs.taobao.com/catalog/thread/154504-320550262.htm
+ParseResult(scheme='https', netloc='bbs.taobao.com', path='/catalog/thread/154504-320550262.htm', params='', query='', fragment='') 
+
+Add New Page: https://bbs.taobao.com/catalog/thread/154504-321659713.htm
+ParseResult(scheme='https', netloc='bbs.taobao.com', path='/catalog/thread/154504-321659713.htm', params='', query='', fragment='') 
+
+Add New Page: https://bbs.taobao.com/catalog/thread/154504-320550271.htm
+ParseResult(scheme='https', netloc='bbs.taobao.com', path='/catalog/thread/154504-320550271.htm', params='', query='', fragment='') 
+
+Add New Page: https://bbs.taobao.com/catalog/thread/154504-320554657.htm
+ParseResult(scheme='https', netloc='bbs.taobao.com', path='/catalog/thread/154504-320554657.htm', params='', query='', fragment='') 
+
+Add New Page: //gongyi.bbs.taobao.com/detail.html?spm=a210m.7763730.0.0.8l4L8s&appId=9703&postId=2626601
+ParseResult(scheme='', netloc='gongyi.bbs.taobao.com', path='/detail.html', params='', query='spm=a210m.7763730.0.0.8l4L8s&appId=9703&postId=2626601', fragment='') 
+
+Add New Page: //gongyi.bbs.taobao.com/detail.html?postId=2703154
+ParseResult(scheme='', netloc='gongyi.bbs.taobao.com', path='/detail.html', params='', query='postId=2703154', fragment='') 
+
+Add New Page: //gongyi.bbs.taobao.com/detail.html?postId=816539
+ParseResult(scheme='', netloc='gongyi.bbs.taobao.com', path='/detail.html', params='', query='postId=816539', fragment='') 
+
+Add New Page: //gongyi.bbs.taobao.com/detail.html?postId=816501
+ParseResult(scheme='', netloc='gongyi.bbs.taobao.com', path='/detail.html', params='', query='postId=816501', fragment='') 
+
+Add New Page: //taojinbi.taobao.com/index.htm?auto_take=true
+ParseResult(scheme='', netloc='taojinbi.taobao.com', path='/index.htm', params='', query='auto_take=true', fragment='') 
+
+Add New Page: //vip.taobao.com
+ParseResult(scheme='', netloc='vip.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //login.taobao.com/member/login.jhtml?f=top&redirectURL=http%3A%2F%2Fwww.taobao.com%2F
+ParseResult(scheme='', netloc='login.taobao.com', path='/member/login.jhtml', params='', query='f=top&redirectURL=http%3A%2F%2Fwww.taobao.com%2F', fragment='') 
+
+Add New Page: //reg.taobao.com/member/new_register.jhtml?from=index&ex_info=&ex_sign=
+ParseResult(scheme='', netloc='reg.taobao.com', path='/member/new_register.jhtml', params='', query='from=index&ex_info=&ex_sign=', fragment='') 
+
+Add New Page: //mai.taobao.com/welcome.htm
+ParseResult(scheme='', netloc='mai.taobao.com', path='/welcome.htm', params='', query='', fragment='') 
+
+Add New Page: //wt.taobao.com/?ks-menu=cz
+ParseResult(scheme='', netloc='wt.taobao.com', path='/', params='', query='ks-menu=cz', fragment='') 
+
+Add New Page: //game.taobao.com
+ParseResult(scheme='', netloc='game.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //baoxian.taobao.com/
+ParseResult(scheme='', netloc='baoxian.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //caipiao.taobao.com/?t=1&ad_id=&am_id=13010663204b41fb5276&cm_id=&pm_id=
+ParseResult(scheme='', netloc='caipiao.taobao.com', path='/', params='', query='t=1&ad_id=&am_id=13010663204b41fb5276&cm_id=&pm_id=', fragment='') 
+
+Add New Page: //dianying.taobao.com
+ParseResult(scheme='', netloc='dianying.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/dd/koubei-takeout.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/dd/koubei-takeout.php', params='', query='', fragment='') 
+
+Add New Page: http://zhaocaibao.alipay.com/pf/productList.htm
+ParseResult(scheme='http', netloc='zhaocaibao.alipay.com', path='/pf/productList.htm', params='', query='', fragment='') 
+
+Add New Page: //life.taobao.com/
+ParseResult(scheme='', netloc='life.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //music.taobao.com?from=taobaohomepage
+ParseResult(scheme='', netloc='music.taobao.com', path='', params='', query='from=taobaohomepage', fragment='') 
+
+Add New Page: //life.taobao.com/market/sdmjf2011.php
+ParseResult(scheme='', netloc='life.taobao.com', path='/market/sdmjf2011.php', params='', query='', fragment='') 
+
+Add New Page: //trip.taobao.com/market/trip/train-home2014.php
+ParseResult(scheme='', netloc='trip.taobao.com', path='/market/trip/train-home2014.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/nvzhuang/index.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/nvzhuang/index.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/nanzhuang/index.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/nanzhuang/index.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/nvxie/citiao/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/nvxie/citiao/index.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/nvbao/shouye.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/nvbao/shouye.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/baobao/2014/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/baobao/2014/index.php', params='', query='', fragment='') 
+
+Add New Page: //mei.taobao.com
+ParseResult(scheme='', netloc='mei.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //chi.taobao.com/?
+ParseResult(scheme='', netloc='chi.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/peishi/peishi.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/peishi/peishi.php', params='', query='', fragment='') 
+
+Add New Page: //www.jiyoujia.com
+ParseResult(scheme='', netloc='www.jiyoujia.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.jiyoujia.com/markets/youjia/zhuangxiucailiao?
+ParseResult(scheme='', netloc='www.jiyoujia.com', path='/markets/youjia/zhuangxiucailiao', params='', query='', fragment='') 
+
+Add New Page: //www.jiyoujia.com/markets/youjia/jiajuzhengti?
+ParseResult(scheme='', netloc='www.jiyoujia.com', path='/markets/youjia/jiajuzhengti', params='', query='', fragment='') 
+
+Add New Page: //www.jiyoujia.com/markets/youjia/shenghuo
+ParseResult(scheme='', netloc='www.jiyoujia.com', path='/markets/youjia/shenghuo', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/car/index.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/car/index.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/3c/home.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/3c/home.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/jiadian/home.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/jiadian/home.php', params='', query='', fragment='') 
+
+Add New Page: //game.taobao.com/
+ParseResult(scheme='', netloc='game.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //xue.taobao.com/
+ParseResult(scheme='', netloc='xue.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //fang.taobao.com/
+ParseResult(scheme='', netloc='fang.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //hunban.taobao.com
+ParseResult(scheme='', netloc='hunban.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //sport.taobao.com/?
+ParseResult(scheme='', netloc='sport.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/huwai/citiao/huwaijianshen.php?spm=a21bo.7724922.8374-1.22.riN65Q
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/huwai/citiao/huwaijianshen.php', params='', query='spm=a21bo.7724922.8374-1.22.riN65Q', fragment='') 
+
+Add New Page: //www.taobao.com/market/wenyu/wenyu.php?spm=a21bo.7724922.8374-1.23.riN65Q
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/wenyu/wenyu.php', params='', query='spm=a21bo.7724922.8374-1.23.riN65Q', fragment='') 
+
+Add New Page: //enjoy.taobao.com/?spm=a21bo.7724922.8374-1.24.riN65Q
+ParseResult(scheme='', netloc='enjoy.taobao.com', path='/', params='', query='spm=a21bo.7724922.8374-1.24.riN65Q', fragment='') 
+
+Add New Page: //nvren.taobao.com/?
+ParseResult(scheme='', netloc='nvren.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //nanren.taobao.com/?
+ParseResult(scheme='', netloc='nanren.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //zln.taobao.com/?
+ParseResult(scheme='', netloc='zln.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //2.taobao.com/?
+ParseResult(scheme='', netloc='2.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //paimai.taobao.com/
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //g.taobao.com/?
+ParseResult(scheme='', netloc='g.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //pifa.taobao.com
+ParseResult(scheme='', netloc='pifa.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //izhongchou.taobao.com/index.htm
+ParseResult(scheme='', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='', fragment='') 
+
+Add New Page: //guang.taobao.com/?
+ParseResult(scheme='', netloc='guang.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //q.taobao.com/?
+ParseResult(scheme='', netloc='q.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //mm.taobao.com/?
+ParseResult(scheme='', netloc='mm.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //b.taobao.com
+ParseResult(scheme='', netloc='b.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //tejia.taobao.com/?
+ParseResult(scheme='', netloc='tejia.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //try.taobao.com/
+ParseResult(scheme='', netloc='try.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //qing.taobao.com
+ParseResult(scheme='', netloc='qing.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/p/index_v1.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/p/index_v1.php', params='', query='', fragment='') 
+
+Add New Page: //taojinbi.taobao.com/index.htm?
+ParseResult(scheme='', netloc='taojinbi.taobao.com', path='/index.htm', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/qiangxin/nvzhuang?
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/qiangxin/nvzhuang', params='', query='', fragment='') 
+
+Add New Page: //taotelaisi.taobao.com/?
+ParseResult(scheme='', netloc='taotelaisi.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/shh/life/tp.htm
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/shh/life/tp.htm', params='', query='', fragment='') 
+
+Add New Page: ///farm.taobao.com/
+ParseResult(scheme='', netloc='', path='/farm.taobao.com/', params='', query='', fragment='') 
+
+Add New Page: //wangwang.taobao.com/?
+ParseResult(scheme='', netloc='wangwang.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: http://www.alipay.com/
+ParseResult(scheme='http', netloc='www.alipay.com', path='/', params='', query='', fragment='') 
+
+Add New Page: http://www.dingtalk.com/?lwfrom=20151102164528651
+ParseResult(scheme='http', netloc='www.dingtalk.com', path='/', params='', query='lwfrom=20151102164528651', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list?spm=a21bo.7724922.8376.2.IzDC6r#guid-8224
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='spm=a21bo.7724922.8376.2.IzDC6r', fragment='guid-8224') 
+
+Add New Page: //www.taobao.com/market/nanzhuang/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/nanzhuang/index.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list?spm=a21bo.7724922.8377.2.bGslQ5#guid-8224
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='spm=a21bo.7724922.8377.2.bGslQ5', fragment='guid-8224') 
+
+Add New Page: //xie.taobao.com/?spm=1.7274553.201.1.cEQWPS
+ParseResult(scheme='', netloc='xie.taobao.com', path='/', params='', query='spm=1.7274553.201.1.cEQWPS', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list?spm=a21bo.7724922.8378.2.b6g3eg#guid-8555
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='spm=a21bo.7724922.8378.2.b6g3eg', fragment='guid-8555') 
+
+Add New Page: //www.taobao.com/market/neiyi/shichang.php?spm=5734.1474565.a214uzs.1.JomCrC
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/neiyi/shichang.php', params='', query='spm=5734.1474565.a214uzs.1.JomCrC', fragment='') 
+
+Add New Page: //www.taobao.com/market/fspj/index.php?spm=5693.1239354.a214uak.9.g6FEdW
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/fspj/index.php', params='', query='spm=5693.1239354.a214uak.9.g6FEdW', fragment='') 
+
+Add New Page: //www.taobao.com/go/market/nanzhuang/txs.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/go/market/nanzhuang/txs.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/xie/jiangxinxie
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/xie/jiangxinxie', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/xie/dxxm.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/xie/dxxm.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/go/market/baobao/2014/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/go/market/baobao/2014/index.php', params='', query='', fragment='') 
+
+Add New Page: //mei.taobao.com/
+ParseResult(scheme='', netloc='mei.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: http://chi.taobao.com
+ParseResult(scheme='http', netloc='chi.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: http://www.taobao.com/markets/tbhome/market-list
+ParseResult(scheme='http', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/peishi/peishi.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/peishi/peishi.php', params='', query='', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/baobao/houbaobao215
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/baobao/houbaobao215', params='', query='', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/promotion/kaixueji
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/promotion/kaixueji', params='', query='', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/promotion/yuanxiaojie/muyingnewborn?spm=a21bt.7914716.186988.2.ISilhy
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/promotion/yuanxiaojie/muyingnewborn', params='', query='spm=a21bt.7914716.186988.2.ISilhy', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/promotion/yuanxiaojie/muyingnewborn?spm=a21bt.7914716.186988.2.u8kHl7
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/promotion/yuanxiaojie/muyingnewborn', params='', query='spm=a21bt.7914716.186988.2.u8kHl7', fragment='') 
+
+Add New Page: //www.taobao.com/markets/nianhuo/hufucaizhuang/index
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/nianhuo/hufucaizhuang/index', params='', query='', fragment='') 
+
+Add New Page: http://www.miiee.com/themes/theme_619.htm?banner=meizhuang
+ParseResult(scheme='http', netloc='www.miiee.com', path='/themes/theme_619.htm', params='', query='banner=meizhuang', fragment='') 
+
+Add New Page: //s.taobao.com/list?q=¿ÚÕÖ&cat=35%2C50006004%2C50067081%2C50008165%2C54164002%2C50005998&mid=869&style=grid&seller_type=taobao&spm=a217j.7271145.1000187.1
+ParseResult(scheme='', netloc='s.taobao.com', path='/list', params='', query='q=¿ÚÕÖ&cat=35%2C50006004%2C50067081%2C50008165%2C54164002%2C50005998&mid=869&style=grid&seller_type=taobao&spm=a217j.7271145.1000187.1', fragment='') 
+
+Add New Page: //www.taobao.com/go/market/baobao/yongping2014/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/go/market/baobao/yongping2014/index.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/peishi/youzhidianpu2.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/peishi/youzhidianpu2.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/baobao/xifen/yunchanfu/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/baobao/xifen/yunchanfu/index.php', params='', query='', fragment='') 
+
+Add New Page: //tiaoshi.chi.taobao.com/
+ParseResult(scheme='', netloc='tiaoshi.chi.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/baobao/zhiyou.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/baobao/zhiyou.php', params='', query='', fragment='') 
+
+Add New Page: https://www.jiyoujia.com/?spm=a21bo.7724922.8415.1
+ParseResult(scheme='https', netloc='www.jiyoujia.com', path='/', params='', query='spm=a21bo.7724922.8415.1', fragment='') 
+
+Add New Page: https://www.jiyoujia.com/markets/youjia/zhuangxiucailiao?spm=a21bo.7724922.8374-1.10.MlAEtk
+ParseResult(scheme='https', netloc='www.jiyoujia.com', path='/markets/youjia/zhuangxiucailiao', params='', query='spm=a21bo.7724922.8374-1.10.MlAEtk', fragment='') 
+
+Add New Page: https://www.jiyoujia.com/markets/youjia/jiajuzhengti?spm=a21bo.7724922.8374-1.11.MlAEtk
+ParseResult(scheme='https', netloc='www.jiyoujia.com', path='/markets/youjia/jiajuzhengti', params='', query='spm=a21bo.7724922.8374-1.11.MlAEtk', fragment='') 
+
+Add New Page: https://www.jiyoujia.com/markets/youjia/shenghuo?spm=a21bo.7724922.8374-1.12.MlAEtk
+ParseResult(scheme='https', netloc='www.jiyoujia.com', path='/markets/youjia/shenghuo', params='', query='spm=a21bo.7724922.8374-1.12.MlAEtk', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list?spm=a21bo.7724922.8388.2.MmyHd0
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='spm=a21bo.7724922.8388.2.MmyHd0', fragment='') 
+
+Add New Page: https://s.taobao.com/list?source=youjia&q=%E6%94%B6%E7%BA%B3
+ParseResult(scheme='https', netloc='s.taobao.com', path='/list', params='', query='source=youjia&q=%E6%94%B6%E7%BA%B3', fragment='') 
+
+Add New Page: https://s.taobao.com/list?source=youjia&q=%E6%9C%A8%E7%9B%98
+ParseResult(scheme='https', netloc='s.taobao.com', path='/list', params='', query='source=youjia&q=%E6%9C%A8%E7%9B%98', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/youjia/baibsn01?spm=a21bo.7724922.8415.2.lvAqFJ
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/youjia/baibsn01', params='', query='spm=a21bo.7724922.8415.2.lvAqFJ', fragment='') 
+
+Add New Page: //www.taobao.com/market/3c/home.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/3c/home.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/jiadian/home.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/jiadian/home.php', params='', query='', fragment='') 
+
+Add New Page: //car.tmall.com/wow/car/act/car?acm=lb-tms-961114-64419.1003.4.473648&scm=1003.4.lb-tms-961114-64419.OTHER_2_473648
+ParseResult(scheme='', netloc='car.tmall.com', path='/wow/car/act/car', params='', query='acm=lb-tms-961114-64419.1003.4.473648&scm=1003.4.lb-tms-961114-64419.OTHER_2_473648', fragment='') 
+
+Add New Page: //car.tmall.com/wh/tmall/car/act/alicar
+ParseResult(scheme='', netloc='car.tmall.com', path='/wh/tmall/car/act/alicar', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list#guid-8574
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='', fragment='guid-8574') 
+
+Add New Page: https://cdj.taobao.com
+ParseResult(scheme='https', netloc='cdj.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //b.taobao.com/?spm=a21bo.7724922.8422.7.FS74jl
+ParseResult(scheme='', netloc='b.taobao.com', path='/', params='', query='spm=a21bo.7724922.8422.7.FS74jl', fragment='') 
+
+Add New Page: https://game.taobao.com/
+ParseResult(scheme='https', netloc='game.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //life.taobao.com
+ParseResult(scheme='', netloc='life.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list#guid-8573
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='', fragment='guid-8573') 
+
+Add New Page: //www.taobao.com/market/wedding/kezhao.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/wedding/kezhao.php', params='', query='', fragment='') 
+
+Add New Page: //s.taobao.com/search?q=IT%E5%B0%B1%E4%B8%9A%E7%8F%AD&imgfile=&js=1&stats_click=search_radio_all%3A1&filter=reserve_price%5B500%2C%5D
+ParseResult(scheme='', netloc='s.taobao.com', path='/search', params='', query='q=IT%E5%B0%B1%E4%B8%9A%E7%8F%AD&imgfile=&js=1&stats_click=search_radio_all%3A1&filter=reserve_price%5B500%2C%5D', fragment='') 
+
+Add New Page: //life.taobao.com/market/life/xiyi.php?spm=a216j.7176401.a214ufx.3.r9NVg8
+ParseResult(scheme='', netloc='life.taobao.com', path='/market/life/xiyi.php', params='', query='spm=a216j.7176401.a214ufx.3.r9NVg8', fragment='') 
+
+Add New Page: //www.taobao.com/markets/fang/act-you-plus
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/fang/act-you-plus', params='', query='', fragment='') 
+
+Add New Page: //sport.taobao.com/
+ParseResult(scheme='', netloc='sport.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/tbhome/market-list#guid-8556
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/market-list', params='', query='', fragment='guid-8556') 
+
+Add New Page: //www.taobao.com/market/huwai/citiao/huwaijianshen.php?spm=a230r.1.0.0.d7a4Sr
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/huwai/citiao/huwaijianshen.php', params='', query='spm=a230r.1.0.0.d7a4Sr', fragment='') 
+
+Add New Page: //www.taobao.com/market/wenyu/wenyu.php?spm=a217y.7280873.a214daf.10.wch9jG
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/wenyu/wenyu.php', params='', query='spm=a217y.7280873.a214daf.10.wch9jG', fragment='') 
+
+Add New Page: //enjoy.taobao.com/
+ParseResult(scheme='', netloc='enjoy.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://s.taobao.com/list?q=%E5%A4%9A%E8%82%89&style=grid&seller_type=taobao&spm=a217z.7279617.1000187.1&cps=yes&cat=56420042
+ParseResult(scheme='https', netloc='s.taobao.com', path='/list', params='', query='q=%E5%A4%9A%E8%82%89&style=grid&seller_type=taobao&spm=a217z.7279617.1000187.1&cps=yes&cat=56420042', fragment='') 
+
+Add New Page: //www.taobao.com/markets/wenyu/chuntianyuehui
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/wenyu/chuntianyuehui', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/wyyl/jiangwen
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/wyyl/jiangwen', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/chongwu/jiajuyanzhi
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/chongwu/jiajuyanzhi', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/wyyl/ddcbaokuan?
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/wyyl/ddcbaokuan', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/pet/zhai.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/pet/zhai.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/sport/jianshen1003.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/sport/jianshen1003.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/huwai/qixingshuangshiyi.php?spm=a21bo.7724922.8403.8.uv2Oib
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/huwai/qixingshuangshiyi.php', params='', query='spm=a21bo.7724922.8403.8.uv2Oib', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/wenyu/yueqikaixueji
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/wenyu/yueqikaixueji', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/qiangxin/nvzhuang
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/qiangxin/nvzhuang', params='', query='', fragment='') 
+
+Add New Page: //qiang.taobao.com/?
+ParseResult(scheme='', netloc='qiang.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/nvxie/nvxuezi.php?spm=a217o.7288001.a214d6q-static.1.Wt1lc6
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/nvxie/nvxuezi.php', params='', query='spm=a217o.7288001.a214d6q-static.1.Wt1lc6', fragment='') 
+
+Add New Page: //www.taobao.com/market/baobao/tongzhuangindex.php?spm=a217j.1390819.a214d62.14.2aKPLr
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/baobao/tongzhuangindex.php', params='', query='spm=a217j.1390819.a214d62.14.2aKPLr', fragment='') 
+
+Add New Page: //www.taobao.com/markets/gmall/baoshui_zhuangong
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/gmall/baoshui_zhuangong', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/xianhua/wumaizhiwu.php?
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/xianhua/wumaizhiwu.php', params='', query='', fragment='') 
+
+Add New Page: //www.tmall.hk/
+ParseResult(scheme='', netloc='www.tmall.hk', path='/', params='', query='', fragment='') 
+
+Add New Page: //car.tmall.com/wow/car/act/chematou
+ParseResult(scheme='', netloc='car.tmall.com', path='/wow/car/act/chematou', params='', query='', fragment='') 
+
+Add New Page: //temai.alitrip.com/
+ParseResult(scheme='', netloc='temai.alitrip.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //miiee.taobao.com
+ParseResult(scheme='', netloc='miiee.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/cdj/index.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/cdj/index.php', params='', query='', fragment='') 
+
+Add New Page: //star.taobao.com/
+ParseResult(scheme='', netloc='star.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //ny.taobao.com/
+ParseResult(scheme='', netloc='ny.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/ss/tp.htm?
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/ss/tp.htm', params='', query='', fragment='') 
+
+Add New Page: //q.taobao.com/
+ParseResult(scheme='', netloc='q.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/quality/quality-assurance?spm=a21c0.23516.32314.4.soCxYo
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/quality/quality-assurance', params='', query='spm=a21c0.23516.32314.4.soCxYo', fragment='') 
+
+Add New Page: //q.taobao.com/?spm=a21c0.7795125.32314.1.8MRqJG#guid-35307
+ParseResult(scheme='', netloc='q.taobao.com', path='/', params='', query='spm=a21c0.7795125.32314.1.8MRqJG', fragment='guid-35307') 
+
+Add New Page: //q.taobao.com/?spm=a21c0.7795125.32314.1.8MRqJG#guid-36049
+ParseResult(scheme='', netloc='q.taobao.com', path='/', params='', query='spm=a21c0.7795125.32314.1.8MRqJG', fragment='guid-36049') 
+
+Add New Page: //www.taobao.com/markets/quality/v2/srp?q=&source=zhizao&at=71490&no_mini_doufu=true&spu_hit=off#!pSize=60&json=on&_input_charset=utf-8&spm&q=&source=zhizao&at=71490&no_mini_doufu=true&spu_hit=off
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/quality/v2/srp', params='', query='q=&source=zhizao&at=71490&no_mini_doufu=true&spu_hit=off', fragment='!pSize=60&json=on&_input_charset=utf-8&spm&q=&source=zhizao&at=71490&no_mini_doufu=true&spu_hit=off') 
+
+Add New Page: //q.taobao.com/?spm=a21c0.7737554.32314.1.lAqM2w
+ParseResult(scheme='', netloc='q.taobao.com', path='/', params='', query='spm=a21c0.7737554.32314.1.lAqM2w', fragment='') 
+
+Add New Page: //paimai.taobao.com/?
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //paimai.taobao.com/pmp_tms/market/paimai/nvren.htm
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/pmp_tms/market/paimai/nvren.htm', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/paimai/art.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/paimai/art.php', params='', query='', fragment='') 
+
+Add New Page: //paimai.taobao.com/pmp_channel/53986010.htm
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/pmp_channel/53986010.htm', params='', query='', fragment='') 
+
+Add New Page: //zc-paimai.taobao.com/
+ParseResult(scheme='', netloc='zc-paimai.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: //paimai.taobao.com/pmp_album/37829528.htm
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/pmp_album/37829528.htm', params='', query='', fragment='') 
+
+Add New Page: //hi.taobao.com/?
+ParseResult(scheme='', netloc='hi.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://izhongchou.taobao.com/index.htm?spm=a21bo.7724922.8374-2.8.fIVybP
+ParseResult(scheme='https', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='spm=a21bo.7724922.8374-2.8.fIVybP', fragment='') 
+
+Add New Page: https://izhongchou.taobao.com/index.htm#J_nav121288001_0
+ParseResult(scheme='https', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='', fragment='J_nav121288001_0') 
+
+Add New Page: https://izhongchou.taobao.com/index.htm?spm=a21bo.7724922.8374-2.8#J_nav121292001_2
+ParseResult(scheme='https', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='spm=a21bo.7724922.8374-2.8', fragment='J_nav121292001_2') 
+
+Add New Page: https://izhongchou.taobao.com/index.htm?spm=a21bo.7724922.9265.5.fIVybP#J_nav123330001_4
+ParseResult(scheme='https', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='spm=a21bo.7724922.9265.5.fIVybP', fragment='J_nav123330001_4') 
+
+Add New Page: https://www.taobao.com/markets/hi/nianhuojie
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/hi/nianhuojie', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/promotion/hesuixinyi/index
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/promotion/hesuixinyi/index', params='', query='', fragment='') 
+
+Add New Page: //sport.taobao.com
+ParseResult(scheme='', netloc='sport.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/wyyl/zhinengchuxing
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/wyyl/zhinengchuxing', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/bling/cqyjjhd
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/bling/cqyjjhd', params='', query='', fragment='') 
+
+Maybe not the attr : href
+Add New Page: //cdj.taobao.com/
+ParseResult(scheme='', netloc='cdj.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://chi.taobao.com/chi/
+ParseResult(scheme='https', netloc='chi.taobao.com', path='/chi/', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/promotion/chunyouji
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/promotion/chunyouji', params='', query='', fragment='') 
+
+Add New Page: //mm.taobao.com/guide/acquisition_list.htm?col_album_id=10000311343
+ParseResult(scheme='', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='col_album_id=10000311343', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/nv/qua/tp.htm
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/nv/qua/tp.htm', params='', query='', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/shh/trip/tp.htm
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/shh/trip/tp.htm', params='', query='', fragment='') 
+
+Add New Page: //mei.taobao.com/?spm=a21bo.7724922.8374-1.6.jpjZrv
+ParseResult(scheme='', netloc='mei.taobao.com', path='/', params='', query='spm=a21bo.7724922.8374-1.6.jpjZrv', fragment='') 
+
+Add New Page: http://www.miiee.com/themes/theme_621.htm?banner=meizhuang
+ParseResult(scheme='http', netloc='www.miiee.com', path='/themes/theme_621.htm', params='', query='banner=meizhuang', fragment='') 
+
+Maybe not the attr : href
+Add New Page: //car.tmall.com
+ParseResult(scheme='', netloc='car.tmall.com', path='', params='', query='', fragment='') 
+
+Add New Page: //car.tmall.com/wow/car/act/chepintmh2
+ParseResult(scheme='', netloc='car.tmall.com', path='/wow/car/act/chepintmh2', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/xianhua/xianhuayuanyi.php?spm=a217z.7279617.a214d67.14.iIQ2ZV
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/xianhua/xianhuayuanyi.php', params='', query='spm=a217z.7279617.a214d67.14.iIQ2ZV', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/chongwu/huayuanzhiwu?ali_trackid=12_249f96ac1d35945a16dd3592959cb859&spm=a21bo.7724922.8456.1.iOgJew
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/chongwu/huayuanzhiwu', params='', query='ali_trackid=12_249f96ac1d35945a16dd3592959cb859&spm=a21bo.7724922.8456.1.iOgJew', fragment='') 
+
+Maybe not the attr : href
+Add New Page: //www.taobao.com/markets/tbhome/app-list
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/tbhome/app-list', params='', query='', fragment='') 
+
+Add New Page: //gushi.taobao.com
+ParseResult(scheme='', netloc='gushi.taobao.com', path='', params='', query='', fragment='') 
+
+Maybe not the attr : href
+Add New Page: http://lu.taobao.com/newMyPath.htm
+ParseResult(scheme='http', netloc='lu.taobao.com', path='/newMyPath.htm', params='', query='', fragment='') 
+
+Maybe not the attr : href
+Maybe not the attr : href
+Add New Page: //izhongchou.taobao.com/index.htm#J_nav121288001_0
+ParseResult(scheme='', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='', fragment='J_nav121288001_0') 
+
+Add New Page: //izhongchou.taobao.com/index.htm#J_nav123330001_4
+ParseResult(scheme='', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='', fragment='J_nav123330001_4') 
+
+Add New Page: //izhongchou.taobao.com/index.htm#J_nav121284001_3
+ParseResult(scheme='', netloc='izhongchou.taobao.com', path='/index.htm', params='', query='', fragment='J_nav121284001_3') 
+
+Add New Page: //hi.taobao.com/market/hi/list.php?spm=a215p.1472830.1.10.yWPnZQ#type=121288001&status=&sort=
+ParseResult(scheme='', netloc='hi.taobao.com', path='/market/hi/list.php', params='', query='spm=a215p.1472830.1.10.yWPnZQ', fragment='type=121288001&status=&sort=') 
+
+Add New Page: //hi.taobao.com/market/hi/list.php?spm=a215p.1472830.1.10.yWPnZQ#type=121292001&status=&sort=
+ParseResult(scheme='', netloc='hi.taobao.com', path='/market/hi/list.php', params='', query='spm=a215p.1472830.1.10.yWPnZQ', fragment='type=121292001&status=&sort=') 
+
+Add New Page: //hi.taobao.com/market/hi/list.php?spm=a215p.1472830.1.10.yWPnZQ#type=122018001
+ParseResult(scheme='', netloc='hi.taobao.com', path='/market/hi/list.php', params='', query='spm=a215p.1472830.1.10.yWPnZQ', fragment='type=122018001') 
+
+Add New Page: //hi.taobao.com/market/hi/list.php?spm=a21bo.7724922.8426.7.AsxRpD#type=123330001&status=1&sort=3
+ParseResult(scheme='', netloc='hi.taobao.com', path='/market/hi/list.php', params='', query='spm=a21bo.7724922.8426.7.AsxRpD', fragment='type=123330001&status=1&sort=3') 
+
+Add New Page: //hi.taobao.com/market/hi/list.php?spm=a21bo.7724922.8426.9.EbKEGl#type=121284001&status=1&sort=1
+ParseResult(scheme='', netloc='hi.taobao.com', path='/market/hi/list.php', params='', query='spm=a21bo.7724922.8426.9.EbKEGl', fragment='type=121284001&status=1&sort=1') 
+
+Add New Page: //g.taobao.com/
+ParseResult(scheme='', netloc='g.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://www.taobao.com/markets/gmall/baoshui_act_index
+ParseResult(scheme='https', netloc='www.taobao.com', path='/markets/gmall/baoshui_act_index', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/go/market/gmall/g-sale.php?spm=5148.7685473.a31d3.4.la9fCf
+ParseResult(scheme='', netloc='www.taobao.com', path='/go/market/gmall/g-sale.php', params='', query='spm=5148.7685473.a31d3.4.la9fCf', fragment='') 
+
+Add New Page: //www.taobao.com/market/gmall/live.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/gmall/live.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/gmall/marketactivity2.php?spm=5148.1292865.a214uoa.6.IiqwRB
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/gmall/marketactivity2.php', params='', query='spm=5148.1292865.a214uoa.6.IiqwRB', fragment='') 
+
+Add New Page: //g.taobao.com/brand_map.htm?spm=5148.7673995.a31d3.5.BSRye1
+ParseResult(scheme='', netloc='g.taobao.com', path='/brand_map.htm', params='', query='spm=5148.7673995.a31d3.5.BSRye1', fragment='') 
+
+Add New Page: //www.taobao.com/market/gmall/live.php?spm=5418.7673907.a31d3.3.zUI178
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/gmall/live.php', params='', query='spm=5418.7673907.a31d3.3.zUI178', fragment='') 
+
+Add New Page: http://daigou.taobao.com
+ParseResult(scheme='http', netloc='daigou.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //sf.taobao.com/item_list.htm?spm=a21bo.7724922.8428.2.zP6XZ4&category=50025972&item_id=527181452985
+ParseResult(scheme='', netloc='sf.taobao.com', path='/item_list.htm', params='', query='spm=a21bo.7724922.8428.2.zP6XZ4&category=50025972&item_id=527181452985', fragment='') 
+
+Add New Page: //s-paimai.taobao.com/pmp_list/3_53982008___1_1.htm?spm=a21bo.7724922.8428.9.MP0mGJ&from=cl#sort-bar
+ParseResult(scheme='', netloc='s-paimai.taobao.com', path='/pmp_list/3_53982008___1_1.htm', params='', query='spm=a21bo.7724922.8428.9.MP0mGJ&from=cl', fragment='sort-bar') 
+
+Add New Page: //paimai.taobao.com/pmp_list/3_53878003_20000%3A30117__1_1.htm?spm=a213x.7340941.1002.20.3Yn5vP&needOrgSearch=true#sort-bar
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/pmp_list/3_53878003_20000%3A30117__1_1.htm', params='', query='spm=a213x.7340941.1002.20.3Yn5vP&needOrgSearch=true', fragment='sort-bar') 
+
+Add New Page: https://paimai.taobao.com/pmp_list/3_56338001___1_1.htm#sort-bar
+ParseResult(scheme='https', netloc='paimai.taobao.com', path='/pmp_list/3_56338001___1_1.htm', params='', query='', fragment='sort-bar') 
+
+Add New Page: //paimai.taobao.com/pmp_list/3_53920003___1_1.htm?spm=a213x.7340941.1002.1.JDABb4#sort-bar
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/pmp_list/3_53920003___1_1.htm', params='', query='spm=a213x.7340941.1002.1.JDABb4', fragment='sort-bar') 
+
+Add New Page: //paimai.taobao.com/pmp_list/3_53910003_122216393:52914556__1_1.htm?spm=a2129.7632758.a214xtk.4.w2rrdd#sort-bar
+ParseResult(scheme='', netloc='paimai.taobao.com', path='/pmp_list/3_53910003_122216393:52914556__1_1.htm', params='', query='spm=a2129.7632758.a214xtk.4.w2rrdd', fragment='sort-bar') 
+
+Add New Page: //zc-paimai.taobao.com/list/123578001.htm
+ParseResult(scheme='', netloc='zc-paimai.taobao.com', path='/list/123578001.htm', params='', query='', fragment='') 
+
+Add New Page: //tejia.taobao.com
+ParseResult(scheme='', netloc='tejia.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: https://www.taobao.com/market/tejia/bbcq.php
+ParseResult(scheme='https', netloc='www.taobao.com', path='/market/tejia/bbcq.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/tejia/muying10.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/tejia/muying10.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/tejia/nvzhuangpc.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/tejia/nvzhuangpc.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/tejia/bbcq.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/tejia/bbcq.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/tejia/dnjrchdsj.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/tejia/dnjrchdsj.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/tejia/muyingpc06.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/tejia/muyingpc06.php', params='', query='', fragment='') 
+
+Add New Page: https://www.taobao.com/market/tejia/nvzhuangpc.php
+ParseResult(scheme='https', netloc='www.taobao.com', path='/market/tejia/nvzhuangpc.php', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/market/tejia/neiyi.php
+ParseResult(scheme='', netloc='www.taobao.com', path='/market/tejia/neiyi.php', params='', query='', fragment='') 
+
+Add New Page: //mm.taobao.com/?spm=1.7274553.1997517389.d5.meLyRT
+ParseResult(scheme='', netloc='mm.taobao.com', path='/', params='', query='spm=1.7274553.1997517389.d5.meLyRT', fragment='') 
+
+Add New Page: //mm.taobao.com/
+ParseResult(scheme='', netloc='mm.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000684347
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000684347', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000681292
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000681292', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000685387
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000685387', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000691409
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000691409', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000688401
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000688401', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000691387
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000691387', fragment='') 
+
+Add New Page: https://mm.taobao.com/guide/acquisition_list.htm?spm=719.100103615.0.0.XOadTc&col_album_id=10000681378
+ParseResult(scheme='https', netloc='mm.taobao.com', path='/guide/acquisition_list.htm', params='', query='spm=719.100103615.0.0.XOadTc&col_album_id=10000681378', fragment='') 
+
+Add New Page: //www.alitrip.com/
+ParseResult(scheme='', netloc='www.alitrip.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://market.alitrip.com/markets/h5/15qa1111/hc/jipiao-ne-mu22?hlreferid=taobaoshouyelvxqukuai2
+ParseResult(scheme='https', netloc='market.alitrip.com', path='/markets/h5/15qa1111/hc/jipiao-ne-mu22', params='', query='hlreferid=taobaoshouyelvxqukuai2', fragment='') 
+
+Add New Page: https://market.alitrip.com/markets/h5/alifxjp?spm=181.7091613.1997517145.2.3HoUfF?hlreferid=jiudianhuichang3
+ParseResult(scheme='https', netloc='market.alitrip.com', path='/markets/h5/alifxjp', params='', query='spm=181.7091613.1997517145.2.3HoUfF?hlreferid=jiudianhuichang3', fragment='') 
+
+Add New Page: https://market.alitrip.com/markets/h5/Taiwantravel_mddzhuantiye
+ParseResult(scheme='https', netloc='market.alitrip.com', path='/markets/h5/Taiwantravel_mddzhuantiye', params='', query='', fragment='') 
+
+Add New Page: https://market.alitrip.com/markets/h5/EUROPETravel_copymddzhuantiye
+ParseResult(scheme='https', netloc='market.alitrip.com', path='/markets/h5/EUROPETravel_copymddzhuantiye', params='', query='', fragment='') 
+
+Add New Page: https://market.alitrip.com/markets/h5/USATravel_mddzhuantiye
+ParseResult(scheme='https', netloc='market.alitrip.com', path='/markets/h5/USATravel_mddzhuantiye', params='', query='', fragment='') 
+
+Add New Page: https://temai.alitrip.com/
+ParseResult(scheme='https', netloc='temai.alitrip.com', path='/', params='', query='', fragment='') 
+
+Add New Page: https://market.alitrip.com/markets/h5/jipiaobaobei
+ParseResult(scheme='https', netloc='market.alitrip.com', path='/markets/h5/jipiaobaobei', params='', query='', fragment='') 
+
+Add New Page: //guang.taobao.com/
+ParseResult(scheme='', netloc='guang.taobao.com', path='/', params='', query='', fragment='') 
+
+Add New Page: javascript:void(0);
+ParseResult(scheme='javascript', netloc='', path='void(0);', params='', query='', fragment='') 
+
+Add New Page: https://guang.taobao.com/street/fushi.htm?spm=a310p.7395723_1.1998038892.110.1TZvLJ&catId=1&tagId=12190
+ParseResult(scheme='https', netloc='guang.taobao.com', path='/street/fushi.htm', params='', query='spm=a310p.7395723_1.1998038892.110.1TZvLJ&catId=1&tagId=12190', fragment='') 
+
+Add New Page: https://guang.taobao.com/street/fushi.htm?spm=a310p.7395723_3.1998038892.37.7H3Avf&catId=3&tagId=11957
+ParseResult(scheme='https', netloc='guang.taobao.com', path='/street/fushi.htm', params='', query='spm=a310p.7395723_3.1998038892.37.7H3Avf&catId=3&tagId=11957', fragment='') 
+
+Add New Page: //farm.taobao.com
+ParseResult(scheme='', netloc='farm.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/shh/life/tp.htm?spm=608.7835138.102202.7.6muLJL
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/shh/life/tp.htm', params='', query='spm=608.7835138.102202.7.6muLJL', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/shh/starbucks/tp.htm
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/shh/starbucks/tp.htm', params='', query='', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/shh/99hunshayushou/tp.htm?spm=608.7683677.a242df.5.0rmga2
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/shh/99hunshayushou/tp.htm', params='', query='spm=608.7683677.a242df.5.0rmga2', fragment='') 
+
+Add New Page: //ju.taobao.com/jusp/shh/huafeitongxunrichang/tp.htm?spm=608.7683677.a242df.3.q06Slm
+ParseResult(scheme='', netloc='ju.taobao.com', path='/jusp/shh/huafeitongxunrichang/tp.htm', params='', query='spm=608.7683677.a242df.3.q06Slm', fragment='') 
+
+Add New Page: //www.taobao.com/markets/xue/taosheji
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/xue/taosheji', params='', query='', fragment='') 
+
+Add New Page: //www.taobao.com/markets/xue/jjyygg
+ParseResult(scheme='', netloc='www.taobao.com', path='/markets/xue/jjyygg', params='', query='', fragment='') 
+
+Add New Page: //i.xue.taobao.com/openclass/openClass.htm
+ParseResult(scheme='', netloc='i.xue.taobao.com', path='/openclass/openClass.htm', params='', query='', fragment='') 
+
+Add New Page: //2.taobao.com/?spm=2007.1000338.0.0.WzWD80
+ParseResult(scheme='', netloc='2.taobao.com', path='/', params='', query='spm=2007.1000338.0.0.WzWD80', fragment='') 
+
+Add New Page: https://2.taobao.com/auction/list?spm=2007.1000261.0.0.JcjixB
+ParseResult(scheme='https', netloc='2.taobao.com', path='/auction/list', params='', query='spm=2007.1000261.0.0.JcjixB', fragment='') 
+
+Add New Page: https://s.2.taobao.com/list/theme.htm?spm=2007.6815005.0.0.ddG7xA&id=weidan
+ParseResult(scheme='https', netloc='s.2.taobao.com', path='/list/theme.htm', params='', query='spm=2007.6815005.0.0.ddG7xA&id=weidan', fragment='') 
+
+Add New Page: https://s.2.taobao.com/list/theme.htm?spm=2007.6815005.0.0.ddG7xA&id=babyuse
+ParseResult(scheme='https', netloc='s.2.taobao.com', path='/list/theme.htm', params='', query='spm=2007.6815005.0.0.ddG7xA&id=babyuse', fragment='') 
+
+Add New Page: //star.taobao.com
+ParseResult(scheme='', netloc='star.taobao.com', path='', params='', query='', fragment='') 
+
+Add New Page: //star.taobao.com/#guid-1408957859445
+ParseResult(scheme='', netloc='star.taobao.com', path='/', params='', query='', fragment='guid-1408957859445') 
+
+Add New Page: //star.taobao.com/?slide=2
+ParseResult(scheme='', netloc='star.taobao.com', path='/', params='', query='slide=2', fragment='') 
+
+Maybe not the attr : href
+Maybe not the attr : href
+
+Process finished with exit code 0
